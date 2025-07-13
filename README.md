@@ -1,2 +1,3 @@
-# newsworld360
-my Website
+# NewsWorld360
+
+Live global news site with filters by country and category.
